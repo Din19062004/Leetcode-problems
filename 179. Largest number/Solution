@@ -1,5 +1,5 @@
-//In this solution, I'm using buble sort. The time complexity is about O(n^2)
-//The complexity can be reduced to O(nlogn) if you use qsort in C
+//In this solution, I'm using bubble sort. Therefor, the time complexity is O(n^2).
+//The complexity can be reduced to O(nlogn) if you use qsort in C.
 
 void swap(int *a, int *b) {
     int temp;
