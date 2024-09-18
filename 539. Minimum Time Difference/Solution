@@ -1,4 +1,5 @@
-//This solution is coded in C
+//I'm using merge sort algorithm.
+//The time complexity is O(nlongn).
 
 void merge(int array[], int L, int M, int R) {
     int i = L, j = M + 1, tempArray[100000];
