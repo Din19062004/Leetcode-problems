@@ -6,7 +6,7 @@
 <section class = "Introduction">
    <p>I've started using leetcode to learn Data structer and Algorithm.</p>
    <p>Most of the solutions were coded in C, partly beacause I was learning this programming language during the course at university.</p>
-   <p>Some of them have been added Java or C++ solution.</p>
+   <p>Some of them have been added solution using Java or C++ (or even assembly language :D).</p>
    <p>Hope you enjoy it! If you have any contribution for me, don't hesitate to contact me at email address: haivietb9@gmail.com.</p>
 </section>
 
