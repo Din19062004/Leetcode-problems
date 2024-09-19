@@ -1,4 +1,4 @@
-//I'm using merge sort algorithm.
+//I've rewritten the merge sort function.
 //The time complexity is O(nlongn).
 
 void merge(int array[], int L, int M, int R) {
