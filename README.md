@@ -1,6 +1,6 @@
 # Leetcode using C
 <header>
-   <h1>Welcome to my leetcode challenge</h1>.
+   <h2>Welcome to my leetcode challenge</h2>.
 </header>
 I've started using leetcode to learn Data structer and Algorithm.<br>
 Most of the solutions were coded in C, partly beacause I was learning this programming language during the course.<br>
