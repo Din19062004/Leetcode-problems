@@ -1,21 +1,15 @@
 # Problem 179. Largest Number
-Given a list of non-negative integers nums, arrange them such that they form the largest number and return it.
-
+Given a list of non-negative integers nums, arrange them such that they form the largest number and return it.<br>
 Since the result may be very large, so you need to return a string instead of an integer.
 
-Example 1:
+<b>Example 1:</b><br>
+Input: nums = [10, 2]<br>
+Output: "210"<br>
 
-Input: nums = [10,2]
-
-Output: "210"
-
-Example 2:
-
-Input: nums = [3,30,34,5,9]
-
-Output: "9534330"
+<b>Example 2:</b><br>
+Input: nums = [3, 30, 34, 5, 9]<br>
+Output: "9534330"<br>
  
-Constraints:
-1 <= nums.length <= 100
-
+<b>Constraints:</b><br>
+1 <= nums.length <= 100<br>
 0 <= nums[i] <= 10^9
