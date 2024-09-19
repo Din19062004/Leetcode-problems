@@ -19,3 +19,6 @@ Explanation: The subarray [5, 4, -1, 7, 8] has the largest sum 23.
 <b>Constraints:</b><br>
 1 <= nums.length <= 10^5<br>
 -10^4 <= nums[i] <= 10^4
+
+<b>Further knowledge:</b> You can access <a href="https://drive.google.com/file/d/1Ck2akVaOB1oh6BQu13Wm02QceIVeoa8_/view?usp=sharing">this link</a>
+ to have further information about the dynamic formula I've used in my solution.
