@@ -1,4 +1,4 @@
-//This solution is using dynamic programming technique.
+//This solution is using dynamic programming algorithm.
 //Time complexity is O(n).
 
 int returnMax(int a, int b) {
