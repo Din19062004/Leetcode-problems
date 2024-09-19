@@ -14,5 +14,5 @@ Since 2 has only one digit, return it.<br>
 Input: num = 0<br>
 Output: 0<br>
  
-Constraints:<br>
+<b>Constraints:</b><br>
 0 <= num <= 2^31 - 1
