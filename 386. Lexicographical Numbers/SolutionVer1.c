@@ -1,6 +1,7 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  * Idea: Covert integer into string, then use strcmp to sort all the strings in lexicographical numbers.
+ * Time complexity: O(nlogn).
  */
 int compare(const void *a, const void *b) {
     char str1[10], str2[10];
