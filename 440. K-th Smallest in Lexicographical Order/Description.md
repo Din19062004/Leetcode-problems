@@ -1,5 +1,6 @@
 # Problem 440. K-th Smallest in Lexicographical Order
-<style>
+<body>
+        <style>
         .colorful-box {
             background-color: lightblue;
             border: 2px solid red;
@@ -13,9 +14,9 @@
             box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
         }
     </style>
-<body>
+
   <div class="colorful-box">hard</div>
-<p>Given two integers $$n$$ and $$k$$, return the $$k$$th lexicographically smallest integer in the range $$[1, n]$$.</p>
+<p>Given two integers $$n$$ and $$k$$, return the $$k$$ th lexicographically smallest integer in the range $$[1, n]$$.</p>
 <p><b>Example 1:</b></p>
 <p>Input: $$n = 13, k = 2$$</p>
 <p>Output: $$10$$</p>
