@@ -12,8 +12,8 @@
 <p>Input: $$nums = [1]$$</p>
 <p>Output: $$[]$$</p>
 <p><b>Constraints:</b></p>
-- $$n = nums.length$$
-- $$1 \leq n \leq 10^5$$
-- $$1 \leq nums[i] \leq n$$
-<p>Each element in nums appears once or twice.</p>
+<p>1. $$n = nums.length$$</p>
+<p>2. $$1 \leq n \leq 10^5$$</p>
+<p>3. $$1 \leq nums[i] \leq n$$</p>
+<p>4. Each element in nums appears once or twice.</p>
 </body>
