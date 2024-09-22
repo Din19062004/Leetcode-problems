@@ -1,5 +1,5 @@
 //I've rewritten the merge sort function.
-//The time complexity is O(nlongn).
+//The time complexity is O(nlogn).
 
 void merge(int array[], int L, int M, int R) {
     int i = L, j = M + 1, tempArray[100000];
