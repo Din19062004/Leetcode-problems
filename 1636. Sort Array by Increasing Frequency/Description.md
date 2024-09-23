@@ -13,5 +13,5 @@
 <p><b>Example 3:</b></p>
 <p>Input: $$nums = [-1,1,-6,4,5,-6,1,4,1]$$</p>
 <p>Output: $$[5,-1,4,4,-6,-6,1,1,1]$$</p>
-<p><b>Constraints:</b></p> $$1 \leq nums.length \leq 100$$ and $$-100 \leq nums[i] \leq 100$$.
+<p><b>Constraints:</b> $$1 \leq nums.length \leq 100$$ and $$-100 \leq nums[i] \leq 100$$.</p>
 </body>
