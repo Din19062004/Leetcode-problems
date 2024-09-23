@@ -5,7 +5,7 @@
 <p><b>Example 1:</b></p>
 <p>Input: $$nums = [1,1,2,2,2,3]$$</p>
 <p>Output: $$[3,1,1,2,2,2]$$</p>
-<p>Explanation: $$'3'$$ has a frequency of $$1, $$'1'$$ has a frequency of $$2$$, and $$'2'$$ has a frequency of $$3$$.</p>
+<p>Explanation: $$'3'$$ has a frequency of $$1$$, $$'1'$$ has a frequency of $$2$$, and $$'2'$$ has a frequency of $$3$$.</p>
 <p><b>Example 2:</b></p>
 <p>Input: $$nums = [2,3,1,3,2]$$</p>
 <p>Output: $$[1,3,3,2,2]$$</p>
