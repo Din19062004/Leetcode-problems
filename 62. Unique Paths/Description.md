@@ -5,7 +5,7 @@
 <p><b>Example 1:</b></p>
 <p>Input: $$m = 3, n = 7$$</p>
 <p>Output: $$28$$</p>
-<img src="C:\Users\QA\OneDrive - Hanoi University of Science and Technology\Pictures\Screenshot 2024-09-24 233508.png" alt="Example"/>
+<img src="https://imgur.com/frLh1Wb.png" alt="Example"/>
 <p><b>Example 2:</b></p>
 <p>Input: $$m = 3, n = 2$$</p>
 <p>Output: $$3$$</p>
