@@ -10,11 +10,11 @@
 <p>Output: true</p>
 <p>Explanation:</p>
 <p>&nbsp;- There are $$6$$ elements in nums, so they should be divided into $$6 : 2 = 3$$ pairs.</p>
-<p>&nbsp;- If nums is divided into the pairs $$(2, 2), (3, 3), and (2, 2)$$, it will satisfy all the conditions.</p>
+<p>&nbsp;- If nums is divided into the pairs $$(2, 2), (3, 3), (2, 2)$$, it will satisfy all the conditions.</p>
 <p><b>Example 2:</b></p>
 <p>Input: $$nums = [1,2,3,4]$$</p>
 <p>Output: false</p>
 <p>Explanation: 
 There is no way to divide nums into $$4 : 2 = 2$$ pairs such that the pairs satisfy every condition.</p>
-<p><b>Constraints:</b>$$nums.length = 2n$$, $$1 \leq n \leq 500$$ and $$1 \leq nums[i] \leq 500$$.</p>
+<p><b>Constraints:</b> $$nums.length = 2n$$, $$1 \leq n \leq 500$$ and $$1 \leq nums[i] \leq 500$$.</p>
 </body>
