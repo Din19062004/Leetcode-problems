@@ -8,5 +8,5 @@
 <p><b>Example 2:</b></p>
 <p>Input: $$nums = [3, 30, 34, 5, 9]$$</p>
 <p>Output: $$"9534330"$$</p>
-<p><b>Constraints:</b> $$1 \leq nums.length \leq 100$$ and $$0 \leq nums[i] \leq 10^9$$</p>
+<p><b>Constraints:</b> $$1 \leq nums.length \leq 100$$ and $$0 \leq nums[i] \leq 10^9$$.</p>
 </body>
