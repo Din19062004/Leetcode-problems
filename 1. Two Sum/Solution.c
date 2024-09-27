@@ -20,7 +20,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     //Sort the array nums in ascending order corresponding with their indeces
     qsort(N, numsSize, sizeof(numWithIndex), compare);
 
-    //Use two pointers i, j to find the targer
+    //Use two pointers i, j to find the target
     int i = 0, j = numsSize - 1;
     while(i < j) {
         if(N[i].num + N[j].num == target) {
