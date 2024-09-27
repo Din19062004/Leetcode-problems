@@ -6,7 +6,7 @@
 <p><b>Example 1:</b></p>
 <p>Input: $$nums = [2,7,11,15]$$, $$target = 9$$</p>
 <p>Output: $$[0,1]$$</p>
-<p>Explanation: Because $$nums[0] + nums[1] == 9$$, we return $$[0, 1]$$.</p>
+<p>Explanation: Because $$nums[0] + nums[1] = 9$$, we return $$[0, 1]$$.</p>
 <p><b>Example 2:</b></p>
 <p>Input: $$nums = [3,2,4]$$, $$target = 6$$</p>
 <p>Output: $$[1,2]$$</p>
