@@ -14,6 +14,7 @@
 <p><b>Output:</b></p>
 <p>[null,null,null,2,null,null,null,null,null,103,202,201,-1]</p>
 <p><b>Explanation:</b></p>
+</body>
 | CustomStack stk = new CustomStack(3); | // Stack is Empty [] |
 | stk.push(1); |                         // stack becomes [1] |
 | stk.push(2);  |                      // stack becomes [1, 2] |
@@ -37,4 +38,3 @@ stk.pop();                            // return 202 --> Return top of the stack 
 stk.pop();                            // return 201 --> Return top of the stack 201, stack becomes []
 
 stk.pop();                            // return -1 --> Stack is empty return -1.
-</body>
