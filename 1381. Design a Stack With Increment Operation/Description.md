@@ -1,10 +1,4 @@
 # Problem 1381. Design a Stack With Increment Operation
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
 <p>Design a stack that supports increment operations on its elements.</p>
 <p>Implement the CustomStack class:</p>
@@ -44,4 +38,3 @@ stk.pop();                            // return 201 --> Return top of the stack 
 
 stk.pop();                            // return -1 --> Stack is empty return -1.
 </body>
-</html>
