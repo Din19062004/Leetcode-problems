@@ -10,14 +10,14 @@
 <p><b>Example 1:</b></p>
 <p><b>Input:</b></p>
 <p>["CustomStack","push","push","pop","push","push","push","increment","increment","pop","pop","pop","pop"]</p>
-<p>$$[[3],[1],[2],[],[2],[3],[4],[5,100],[2,100],[],[],[],[]]$$</p>
+<p>[[3],[1],[2],[ ],[2],[3],[4],[5, 100],[2, 100],[ ],[ ],[ ],[ ]]</p>
 <p><b>Output:</b></p>
-<p>$$[null,null,null,2,null,null,null,null,null,103,202,201,-1]$$</p>
+<p>[null, null, null, 2, null, null, null, null, null, 103, 202, 201, -1]</p>
 <p><b>Explanation:</b></p>
 
 | Operation                                   | Stack State          |
 |---------------------------------------------|----------------------|
-| CustomStack stk = new CustomStack(3);       | []                   |
+| CustomStack stk = new CustomStack(3);       | [ ]                  |
 | stk.push(1);                                | [1]                  |
 | stk.push(2);                                | [1, 2]               |
 | stk.pop();                                  | [1]                  |
@@ -28,6 +28,6 @@
 | stk.increment(2, 100);                      | [201, 202, 103]      |
 | stk.pop();                                  | [201, 202]           |
 | stk.pop();                                  | [201]                |
-| stk.pop();                                  | []                   |
+| stk.pop();                                  | [ ]                  |
 | stk.pop();                                  | -1                   |
 </body>
