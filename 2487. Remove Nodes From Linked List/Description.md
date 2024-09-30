@@ -4,11 +4,9 @@ You are given the ```head``` of a linked list.
 
 Remove every node which has a node with a greater value anywhere to the right side of it.
 
-Return the head of the modified linked list.
+Return the ```head``` of the modified linked list.
 
- 
-
-Example 1:
+<b>Example 1:</b>
 
 
 Input: head = [5,2,13,3,8]
