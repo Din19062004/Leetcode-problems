@@ -14,10 +14,10 @@
 <p><b>Output:</b></p>
 <p>[null,null,null,2,null,null,null,null,null,103,202,201,-1]</p>
 <p><b>Explanation:</b></p>
-</body>
-| Operation                                   | Stack State           |
-|---------------------------------------------|-----------------------|
-| CustomStack stk = new CustomStack(3);      | []                    |
+
+| Operation                                   | Stack State          |
+|---------------------------------------------|----------------------|
+| CustomStack stk = new CustomStack(3);       | []                   |
 | stk.push(1);                                | [1]                  |
 | stk.push(2);                                | [1, 2]               |
 | stk.pop();                                  | [1]                  |
@@ -28,6 +28,6 @@
 | stk.increment(2, 100);                      | [201, 202, 103]      |
 | stk.pop();                                  | [201, 202]           |
 | stk.pop();                                  | [201]                |
-| stk.pop();                                  | []                    |
-| stk.pop();                                  | -1                    |
-
+| stk.pop();                                  | []                   |
+| stk.pop();                                  | -1                   |
+</body>
