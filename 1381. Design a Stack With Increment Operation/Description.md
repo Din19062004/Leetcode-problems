@@ -1,4 +1,21 @@
 # Problem 1381. Design a Stack With Increment Operation
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Columns Example</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: auto auto; /* Create two columns */
+            column-gap: 20px; /* Optional: add some space between columns */
+        }
+        .container div {
+            padding: 5px; /* Optional: add padding for better readability */
+        }
+    </style>
+</head>
 <body>
 <p>Design a stack that supports increment operations on its elements.</p>
 <p>Implement the CustomStack class:</p>
@@ -8,14 +25,16 @@
 <p>&nbsp;&nbsp;4. void inc(int k, int val): Increments the bottom k elements of the stack by val. If there are less than k elements in the stack, increment all the elements in the stack.</p>
 
 <p><b>Example 1:</b></p>
-<p>Input:</p>
+<p><b>Input:</b></p>
 <p>["CustomStack","push","push","pop","push","push","push","increment","increment","pop","pop","pop","pop"]
 [[3],[1],[2],[],[2],[3],[4],[5,100],[2,100],[],[],[],[]]</p>
-<p>Output:</p>
+<p><b>Output:</b></p>
 <p>[null,null,null,2,null,null,null,null,null,103,202,201,-1]</p>
-<p>Explanation:</p>
-CustomStack stk = new CustomStack(3); // Stack is Empty []
-stk.push(1);                          // stack becomes [1]
+<p><b>Explanation:</b></p>
+<div class="container">
+<div>CustomStack stk = new CustomStack(3);</div> <div>// Stack is Empty []</div>
+<div>stk.push(1);</div>                    
+<div>// stack becomes [1]</div>
 
 stk.push(2);                          // stack becomes [1, 2]
 
@@ -38,4 +57,6 @@ stk.pop();                            // return 202 --> Return top of the stack 
 stk.pop();                            // return 201 --> Return top of the stack 201, stack becomes []
 
 stk.pop();                            // return -1 --> Stack is empty return -1.
+</div>
 </body>
+</html>
