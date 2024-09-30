@@ -8,7 +8,7 @@ Return the ```head``` of the modified linked list.
 
 __Example 1:__
 
-![Linked list](https://imgur.com/a/CMrxOQR.png)
+![Linked list]("https://imgur.com/a/CMrxOQR.png")
 
 Input: ```head = [5, 2, 13, 3, 8]```
 
@@ -28,6 +28,6 @@ Output: ```[1, 1, 1, 1]```
 Explanation: Every node has value 1, so no nodes are removed.
  
 __Constraints:__
-- The number of the nodes in the given list is in the range ```[1, 10<sup>5</sup>]```.
-- ```1 <= Node.val <= 10<sup>5</sup>```
+- The number of the nodes in the given list is in the range ```[1, 10⁵]```.
+- ```1 <= Node.val <= 10⁵```
 
