@@ -4,17 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Two Columns Example</title>
-    <style>
-        .container {
-            display: grid;
-            grid-template-columns: auto auto; /* Create two columns */
-            column-gap: 20px; /* Optional: add some space between columns */
-        }
-        .container div {
-            padding: 5px; /* Optional: add padding for better readability */
-        }
-    </style>
 </head>
 <body>
 <p>Design a stack that supports increment operations on its elements.</p>
