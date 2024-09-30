@@ -9,10 +9,10 @@
 
 <p><b>Example 1:</b></p>
 <p><b>Input:</b></p>
-<p>["CustomStack","push","push","pop","push","push","push","increment","increment","pop","pop","pop","pop"]
-[[3],[1],[2],[],[2],[3],[4],[5,100],[2,100],[],[],[],[]]</p>
+<p>["CustomStack","push","push","pop","push","push","push","increment","increment","pop","pop","pop","pop"]</p>
+<p>$$[[3],[1],[2],[],[2],[3],[4],[5,100],[2,100],[],[],[],[]]$$</p>
 <p><b>Output:</b></p>
-<p>[null,null,null,2,null,null,null,null,null,103,202,201,-1]</p>
+<p>$$[null,null,null,2,null,null,null,null,null,103,202,201,-1]$$</p>
 <p><b>Explanation:</b></p>
 
 | Operation                                   | Stack State          |
