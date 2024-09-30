@@ -22,8 +22,7 @@
 <p><b>Explanation:</b></p>
 <div class="container">
 <div>CustomStack stk = new CustomStack(3);</div> <div>// Stack is Empty []</div>
-<div>stk.push(1);</div>                    
-<div>// stack becomes [1]</div>
+<div>stk.push(1);</div>                   <div>// stack becomes [1]</div>
 
 stk.push(2);                          // stack becomes [1, 2]
 
