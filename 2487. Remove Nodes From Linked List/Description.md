@@ -8,7 +8,7 @@ Return the ```head``` of the modified linked list.
 
 __Example 1:__
 
-![Linked list]("https://imgur.com/a/CMrxOQR.png")
+![Linked list]("https://imgur.com/CMrxOQR.png")
 
 Input: ```head = [5, 2, 13, 3, 8]```
 
