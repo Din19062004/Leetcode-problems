@@ -6,7 +6,7 @@ Remove every node which has a node with a greater value anywhere to the right si
 
 Return the ```head``` of the modified linked list.
 
-<b>Example 1:</b>
+<b>Example 1:<\b>
 ![Linked list](https://imgur.com/a/CMrxOQR)
 
 Input: ```head = [5, 2, 13, 3, 8]```
@@ -18,7 +18,7 @@ Explanation: The nodes that should be removed are 5, 2 and 3.
 - Node 13 is to the right of node 2.
 - Node 8 is to the right of node 3.
 
-<b>Example 2:</b>
+<b>Example 2:<\b>
 
 Input: ```head = [1, 1, 1, 1]```
 
