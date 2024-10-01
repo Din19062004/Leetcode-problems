@@ -1,5 +1,7 @@
 # Leetcode using C
 
+### Welcome to my Leetcode challenge
+
    I've started using leetcode to learn Data Structer and Algorithm.
    
    Most of the solutions were coded in ```C```, partly beacause I was learning this programming language during the course at university.
