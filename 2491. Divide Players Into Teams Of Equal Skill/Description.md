@@ -1,6 +1,8 @@
 # Problem 2491. Divide Players Into Teams of Equal 
 
-You are given a positive integer array ```skill``` of __even__ length ```n``` where ```skill[i]``` denotes the skill of the ```ith``` player. Divide the players into ```n / 2``` teams of size ```2``` such that the total skill of each team is equal.
+You are given a positive integer array ```skill``` of __even__ length ```n``` where ```skill[i]``` denotes the skill of the ```ith``` player. 
+
+Divide the players into ```n / 2``` teams of size ```2``` such that the total skill of each team is equal.
 
 The __chemistry__ of a team is equal to the __product__ of the skills of the players on that team.
 
@@ -37,5 +39,5 @@ Explanation: There is no way to divide the players into teams such that the tota
  
 __Constraints:__
 - ```2 <= skill.length <= 10⁵```
-- skill.length is even.
+- ```skill.length``` is even.
 - ```1 <= skill[i] <= 1000```
