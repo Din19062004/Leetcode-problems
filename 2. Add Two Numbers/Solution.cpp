@@ -12,7 +12,7 @@ class Solution {
 public:
     void insertAtTail(ListNode *&head, int value) {
         ListNode *newNode = new ListNode(value);
-        //Edege case: When the list is Null
+        //Edge case: When the list is Null
         if(head == nullptr) {
             head = newNode;
             return;
