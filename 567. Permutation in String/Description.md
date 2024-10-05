@@ -7,7 +7,9 @@ In other words, return ```true``` if one of ```s1```'s permutations is the subst
 __Example 1:__
 
 Input: ```s1 = "ab"```, ```s2 = "eidbaooo"```
+
 Output: ```true```
+
 Explanation: ```s2``` contains one permutation of ```s1``` (```"ba"```).
 
 __Example 2:__
