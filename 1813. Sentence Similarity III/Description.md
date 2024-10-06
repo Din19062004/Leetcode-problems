@@ -12,27 +12,21 @@ Given two sentences ```sentence1``` and ```sentence2```, return ```true``` if ``
 
 __Example 1:__
 
-Input: sentence1 = "My name is Haley", sentence2 = "My Haley"
-
-Output: true
-
-Explanation: sentence2 can be turned to sentence1 by inserting "name is" between "My" and "Haley".
+- Input: sentence1 = "My name is Haley", sentence2 = "My Haley"
+- Output: true
+- Explanation: sentence2 can be turned to sentence1 by inserting "name is" between "My" and "Haley".
 
 __Example 2:__
 
-Input: sentence1 = "of", sentence2 = "A lot of words"
-
-Output: false
-
-Explanation: No single sentence can be inserted inside one of the sentences to make it equal to the other.
+- Input: sentence1 = "of", sentence2 = "A lot of words"
+- Output: false
+- Explanation: No single sentence can be inserted inside one of the sentences to make it equal to the other.
 
 __Example 3:__
 
-Input: sentence1 = "Eating right now", sentence2 = "Eating"
-
-Output: true
-
-Explanation: sentence2 can be turned to sentence1 by inserting "right now" at the end of the sentence.
+- Input: sentence1 = "Eating right now", sentence2 = "Eating"
+- Output: true
+- Explanation: sentence2 can be turned to sentence1 by inserting "right now" at the end of the sentence.
 
 __Constraints:__
 - ```1 <= sentence1.length, sentence2.length <= 100```
