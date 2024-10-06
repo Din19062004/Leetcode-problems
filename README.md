@@ -9,7 +9,8 @@
    Some of them have been added solutions using ```Java``` or ```C++``` (or even ```assembly language```:grinning:).  
 
    Each problem contains:
-   - ```Description.md```: You can read this file to understand all the problem's statements (inputs, outputs, constraints, ...). In some problems, I also added a link for my further explanation about the algorithm I used in a ```.pdf``` file.
+   - ```Description.md```: You can read this file to understand all the problem's contexts (inputs, outputs, constraints, ...). In some problems, I also added a link for a ```.pdf``` file which shows my further explanation about the algorithm I used.
+     
    - ```Solution.*```: This is my solution for the problem. ```.*``` could be ```.c```, ```.cpp```, ```.java``` (or ```.asm```), depending on the programming language I have chosen to solve the problem.
   
    Hope you enjoy it! If you have any contribution, don't hesitate to contact me at email address: haivietb9@gmail.com.
