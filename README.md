@@ -1,4 +1,4 @@
-# Leetcode using C
+# Leetcode day by day
 
 ### Welcome to my Leetcode challenge :partying_face:
 
