@@ -1,16 +1,23 @@
 # Problem 539. Minimum Time Difference
-Given a list of 24-hour clock time points in "HH:MM" format, return the minimum minutes difference between any two time-points in the list.
+
+Given a list of 24-hour clock ```time points``` in ```"HH:MM"``` format, return the _minimum minutes difference_ between any two time-points in the list.
  
-<b>Example 1:</b> <br>
-Input: timePoints = ["23:59","00:00"]<br>
-Output: 1<br>
+__Example 1:__
+
+🥇 Input: timePoints = ["23:59","00:00"]
+
+🥈 Output: 1
+
 Explanation: The minimum time difference between 23:59pm and 00:00am is 1 minute.
 
-<b>Example 2:</b> <br>
-Input: timePoints = ["00:00","23:59","00:00"]<br>
-Output: 0<br>
+__Example 2:__
+
+🥇 Input: timePoints = ["00:00","23:59","00:00"]
+
+🥈 Output: 0
+
 Explanation: The minimum time difference between 00:00am and 00:00am is 0.
 
-<b>Constraints:</b> <br>
-2 <= timePoints.length <= 2 * 10^4<br>
-timePoints[i] is in the format "HH:MM".
+__Constraints:__
+- ```2 <= timePoints.length <= 2*10⁴```
+- ```timePoints[i]``` is in the format ```"HH:MM"```.
