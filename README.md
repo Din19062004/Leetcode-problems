@@ -17,5 +17,5 @@
 
    __Notice:__ All solutions are only used to submit on Leetcode with appropriate programming language. :no_entry:
 
-  [LeetCode Stats](https://leetcard.jacoblin.cool/haivietb9?theme=light&font=Noto%20Sans%20Rejang)
+![Leetcode stats](https://leetcard.jacoblin.cool/haivietb9?theme=light&font=Noto%20Sans%20Rejang)
 
