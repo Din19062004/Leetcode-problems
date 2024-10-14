@@ -8,7 +8,7 @@ The __next permutation__ of an array of integers is the next lexicographically g
 
 For example, the next permutation of ```[1, 2, 3]``` is ```[1, 3, 2]```.
 
-Similarly, the next permutation of ```[2, 3, 1]``` is [3, 1, 2]```.
+Similarly, the next permutation of ```[2, 3, 1]``` is ```[3, 1, 2]```.
 
 While the next permutation of ```[3, 2, 1]``` is ```[1, 2, 3]``` because ```[3, 2, 1]``` does not have a lexicographical larger rearrangement.
 
