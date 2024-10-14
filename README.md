@@ -1,8 +1,8 @@
 # Leetcode day by day
 
-### Welcome to my Leetcode challenge :partying_face:
+### Welcome to my LeetCode challenge :partying_face:
 
-   I've started using Leetcode to learn Data Structer and Algorithm.
+   I've started using LeetCode to learn Data Structer and Algorithm.
    
    Most of the solutions were coded in ```C```, partly beacause I was learning this programming language during the DSA course at university.
    
