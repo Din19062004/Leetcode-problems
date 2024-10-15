@@ -1,4 +1,4 @@
-# Leetcode day by day
+# LeetCode day by day
 
 ### Welcome to my LeetCode challenge :partying_face:
 
@@ -15,7 +15,7 @@
   
    Hope you enjoy it! If you have any contribution, don't hesitate to contact me at email address: haivietb9@gmail.com.
 
-   __Notice:__ All solutions are only used to submit on Leetcode with appropriate programming language. :no_entry:
+   __Notice:__ All solutions are only used to submit on LeetCode with appropriate programming language. :no_entry:
 
 ![Leetcode stats](https://leetcard.jacoblin.cool/haivietb9?theme=light&font=Noto%20Sans%20Rejang)
 
