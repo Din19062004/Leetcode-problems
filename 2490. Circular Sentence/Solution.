@@ -1,0 +1,28 @@
+class Solution {
+public:
+    vector<string> splitWords(string sentence) {
+        string word;
+        stringstream ss(sentence);
+        vector<string> result;
+        while(ss >> word) {
+            result.push_back(word);
+        }
+        return result;
+    }
+    bool isCircularSentence(string sentence) {
+        vector<string> splitS = splitWords(sentence);
+        for(int i = 0; i < splitS.size() - 1; i++) {
+            string s1 = splitS[i];
+            string s2 = splitS[i + 1];
+            if(s1[s1.length() - 1] != s2[0]) {
+                return false;
+            }
+        }
+        string s1 = splitS[0];
+        string s2 = splitS[splitS.size() - 1];
+        if(s2[s2.length() - 1] != s1[0]) {
+            return false;
+        }
+        return true;
+    }
+};
